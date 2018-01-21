@@ -1,7 +1,7 @@
 
 :star: 
-#Get to Know me
-###Just a little:princess:
+# Get to Know me
+### Just a little :princess:
 
 CREDITS:
 Template
