@@ -1,16 +1,14 @@
 
-TITLE: 
-Crew - Responsive Free HTML5 template
+:star: <h1>Get to Know me</h1> 
+<h2>Just a little</h2> :princess:
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+CREDITS:
+Template
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
 
-
-CREDITS:
 
 Bootstrap
 http://getbootstrap.com/
