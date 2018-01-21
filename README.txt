@@ -1,6 +1,7 @@
 
-:star: <h1>Get to Know me</h1> 
-<h2>Just a little</h2> :princess:
+:star: 
+#Get to Know me
+###Just a little:princess:
 
 CREDITS:
 Template
